@@ -3,8 +3,7 @@
 [![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julie-desvaux/)](https://www.linkedin.com/in/julie-desvaux/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.julie-desvaux.com/)](https://www.julie-desvaux.com/)
 
-📅 𝐑𝐞𝐜𝐡𝐞𝐫𝐜𝐡𝐞 𝐝𝐞 𝐒𝐭𝐚𝐠𝐞 à 𝐩𝐚𝐫𝐭𝐢𝐫 𝐝𝐮 𝟏9 𝐨𝐜𝐭𝐨𝐛𝐫𝐞 𝟐𝟎𝟐𝟎 :
- DEVELOPPEUR WEB/WEB MOBILE FULLSTACK JS
+DEVELOPPEUSE WEB FULLSTACK JS Chez Koya
 
 ### ⚡ Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
