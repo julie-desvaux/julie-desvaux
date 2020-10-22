@@ -3,7 +3,7 @@
 [![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julie-desvaux/)](https://www.linkedin.com/in/julie-desvaux/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.julie-desvaux.com/)](https://www.julie-desvaux.com/)
 
-DEVELOPPEUSE WEB FULLSTACK JS Chez Koya
+DEVELOPPEUSE WEB FULLSTACK JS CHEZ [KOYA] (https://www.koya-app.fr/ "link to koya")
 
 ### ⚡ Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
