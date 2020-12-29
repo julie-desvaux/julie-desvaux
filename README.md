@@ -15,5 +15,4 @@ DEVELOPPEUSE WEB FULLSTACK JS CHEZ [KOYA](https://www.koya-app.fr/ "link to koya
 ![Nodejs](https://img.shields.io/badge/-Nodejs-303030?style=flat-square&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
-<img src="https://www.julie-desvaux.com/images/skills/sass.png" alt="Sass"/>
 
