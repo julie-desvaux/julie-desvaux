@@ -22,7 +22,7 @@ DEVELOPPEUSE WEB FULLSTACK JS CHEZ [KOYA](https://www.koya-app.fr/ "link to koya
   * ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   * ![Sass](https://img.shields.io/badge/-Sass-CD669A?style=for-the-badge&logo=Sass&logoColor=white)
 
-- BDD :
+- DataBase :
   * ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)
   * ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
   
