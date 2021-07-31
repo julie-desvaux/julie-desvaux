@@ -32,3 +32,4 @@ DEVELOPPEUSE WEB FULLSTACK JS CHEZ [KOYA](https://www.koya-app.fr/ "link to koya
   ![Gitlab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker%20-%23181717.svg?&style=for-the-badge&logo=docker&logoColor=blue)
   
+![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=julie-desvaux&layout=compact&theme=dark)
