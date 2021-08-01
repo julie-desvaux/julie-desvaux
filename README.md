@@ -34,7 +34,9 @@ DEVELOPPEUSE WEB FULLSTACK JS CHEZ [KOYA](https://www.koya-app.fr/ "link to koya
  
 ### Stats
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=julie-desvaux&layout=compact&theme=prussian)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julie-desvaux&show_icons=true&theme=prussian&count_private=true&hide=issues)
+![julie-desvaux's GitHub stats](https://github-readme-stats.vercel.app/api?username=julie-desvaux&show_icons=true&theme=prussian&count_private=true&hide=issues)
+<!-- ![julie-desvaux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juliedesvaux) -->
+
 
 
 
