@@ -1,9 +1,9 @@
-### Bienvenue sur mon profil Github 👋
+### Welcome to my Github profile 👋
 
 [![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julie-desvaux/)](https://www.linkedin.com/in/julie-desvaux/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.julie-desvaux.com/)](https://www.julie-desvaux.com/)
 
-DEVELOPPEUSE WEB FULLSTACK JS CHEZ [KOYA](https://www.koya-app.fr/ "link to koya")
+FULLSTACK JS WEB DEVELOPER AT [KOYA](https://www.koya-app.fr/ "link to koya")
 
 ### ⚡ Technologies
 - Back : 
@@ -35,6 +35,7 @@ DEVELOPPEUSE WEB FULLSTACK JS CHEZ [KOYA](https://www.koya-app.fr/ "link to koya
 ### Stats
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=julie-desvaux&layout=compact&theme=prussian)
 ![julie-desvaux's GitHub stats](https://github-readme-stats.vercel.app/api?username=julie-desvaux&show_icons=true&theme=prussian&count_private=true&hide=issues)
+### Stats of the last week
 ![julie-desvaux's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=juliedesvaux)
 
 
