@@ -18,19 +18,23 @@ FULLSTACK JS WEB DEVELOPER AT [KOYA](https://www.koya-app.fr/ "link to koya")
 - Frameworks :
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white) 
+  ![Next](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%2361DAFB)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Sass](https://img.shields.io/badge/-Sass-CD669A?style=for-the-badge&logo=Sass&logoColor=white)
 
 - DataBase :
   ![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white)
-  ![SQL](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-00000F.svg?&style=for-the-badge&logo=mysql&logoColor=white)
   
 - Infrastructure :
   ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white) 
   ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white) 
   ![Gitlab](https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white)
   ![Docker](https://img.shields.io/badge/docker%20-%23181717.svg?&style=for-the-badge&logo=docker&logoColor=blue)
+  ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
  
 ### Stats
 ![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=julie-desvaux&layout=compact&theme=prussian)
