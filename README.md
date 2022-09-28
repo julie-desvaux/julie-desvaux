@@ -3,7 +3,7 @@
 [![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julie-desvaux/)](https://www.linkedin.com/in/julie-desvaux/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.julie-desvaux.com/)](https://www.julie-desvaux.com/)
 
-FULLSTACK JS WEB DEVELOPER AT [KOYA](https://www.koya-app.fr/ "link to koya")
+FULLSTACK JS WEB DEVELOPER AT [FAIRNESS](https://fairness.coop/ "link to Fairness")
 
 ### ⚡ Technologies
 - Back : 
@@ -16,6 +16,7 @@ FULLSTACK JS WEB DEVELOPER AT [KOYA](https://www.koya-app.fr/ "link to koya")
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 - Frameworks :
+  ![Svelte](https://img.shields.io/badge/svelte-%23E34F26.svg?style=for-the-badge&logo=svelte&logoColor=white)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white) 
   ![Next](https://img.shields.io/badge/next.js-%2320232a.svg?style=for-the-badge&logo=next.js&logoColor=%2361DAFB)
