@@ -3,7 +3,7 @@
 [![Linkedin: anmol](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julie-desvaux/)](https://www.linkedin.com/in/julie-desvaux/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.julie-desvaux.com/)](https://www.julie-desvaux.com/)
 
-FULLSTACK JS WEB DEVELOPER AT [FAIRNESS](https://fairness.coop/ "link to Fairness")
+FULLSTACK JS WEB DEVELOPER
 
 ### ⚡ Technologies
 - Back : 
